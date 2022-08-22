@@ -1,0 +1,55 @@
+Transmission Type:	 Manual
+Transmission Model Number	Mp4
+Key Specifications:
+1. Forward Gear		4
+2. 1st Gear Ratio	2.54
+3. 2nd Gear Ratio	1.92
+4. 3rd Gear Ratio	1.51
+5. 4th Gear Ratio	1.0
+6. 5th Gear Ratio	0.0
+6. 6th Gear Ratio	0.0
+-----------------------------------------------
+Transmission Type:	 Manual
+Transmission Model Number	Mp5
+Key Specifications:
+1. Forward Gear		5
+2. 1st Gear Ratio	3.543
+3. 2nd Gear Ratio	1.904
+4. 3rd Gear Ratio	1.28
+5. 4th Gear Ratio	0.914
+6. 5th Gear Ratio	0.757
+6. 6th Gear Ratio	0.0
+-----------------------------------------------
+Transmission Type:	 Manual
+Transmission Model Number	Mp6
+Key Specifications:
+1. Forward Gear		6
+2. 1st Gear Ratio	3.01
+3. 2nd Gear Ratio	2.07
+4. 3rd Gear Ratio	1.43
+5. 4th Gear Ratio	1.0
+6. 5th Gear Ratio	0.71
+6. 6th Gear Ratio	0.57
+-----------------------------------------------
+Transmission Type:	 Manual
+Transmission Model Number	MD5
+Key Specifications:
+1. Forward Gear		5
+2. 1st Gear Ratio	3.543
+3. 2nd Gear Ratio	1.904
+4. 3rd Gear Ratio	1.28
+5. 4th Gear Ratio	0.914
+6. 5th Gear Ratio	0.757
+6. 6th Gear Ratio	0.0
+-----------------------------------------------
+Transmission Type:	 Manual
+Transmission Model Number	MD6
+Key Specifications:
+1. Forward Gear		5
+2. 1st Gear Ratio	3.543
+3. 2nd Gear Ratio	1.904
+4. 3rd Gear Ratio	1.28
+5. 4th Gear Ratio	0.914
+6. 5th Gear Ratio	0.757
+6. 6th Gear Ratio	0.0
+-----------------------------------------------
